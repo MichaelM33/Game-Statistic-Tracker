@@ -1,0 +1,332 @@
+.App {
+  text-align: center;
+  justify-content: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.home {
+  height: 50px;
+  width: 700px;
+  background: white;
+  border-radius: 5px;
+  align-items: center;
+  display: flex;
+}
+
+.landing {
+  height: 100vh; /* Magic here */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(83, 131, 232);
+}
+
+.child {
+  display: inline-block;
+  margin: 5px;
+}
+
+input {
+  height: 40px;
+  width: 630px;
+  background: white;
+  border: white;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+  outline: none;
+}
+
+.match-rank-conainer {
+  display: flex;
+  justify-content: center; /*hoz */
+}
+
+.match-container {
+  display: inline-block;
+  justify-content: center; /*hoz */
+  width: 690px;
+}
+
+.solo-rank-container {
+  width: 300px;
+  height: 142px;
+  border: 2px solid rgb(212, 216, 216);
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+}
+
+.solo-rank-info {
+  width: 30;
+  height: 30;
+}
+
+.solo-rank-img {
+  width: 90;
+  height: 90;
+  margin: 5px;
+}
+
+.solo-ranking-name {
+  font-size: 11px;
+}
+
+.solo-ranking-rank {
+  font-size: 15px;
+  color: rgb(26, 120, 174);
+  font-weight: 700;
+}
+.solo-ranking-wins {
+  font-size: 12px;
+}
+
+.flex-rank-container {
+  width: 300px;
+  height: 142px;
+  border: 2px solid rgb(212, 216, 216);
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+}
+
+.flex-rank-info {
+  width: 30;
+  height: 30;
+}
+
+.flex-ranking-name {
+  font-size: 11px;
+}
+
+.flex-rank-img {
+  width: 30;
+  height: 30;
+}
+.flex-ranking-rank {
+  font-size: 15px;
+  color: rgb(26, 120, 174);
+  font-weight: 700;
+}
+.flex-ranking-wins {
+  font-size: 12px;
+}
+
+.match-warp {
+  width: 690px;
+  height: 98px;
+  background: white;
+  border-radius: 5px;
+  align-items: center;
+  display: block;
+  justify-content: center;
+  margin: 10px;
+}
+
+.Victory {
+  background: rgb(163, 207, 236);
+  border: 2px solid rgb(207, 217, 225);
+  width: 690px;
+  height: 98px;
+}
+
+.Defeat {
+  background: rgb(226, 182, 179);
+  border: 2px solid rgb(216, 192, 192);
+  width: 690px;
+  height: 98px;
+}
+
+.Remake {
+  background: rgb(182, 182, 182);
+  border: 1px solid rgb(169, 169, 169);
+  width: 690px;
+  height: 98px;
+}
+
+/* Section 1 */
+.section1 {
+  width: 70.5px;
+  height: 97px;
+  min-width: 70.5px;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 5px;
+}
+.section1-queuetype {
+  font-size: 11px;
+}
+.section1-bar {
+  font-size: 11px;
+}
+.section1-gameduration {
+  font-size: 11px;
+}
+.section1-victory {
+  color: rgb(26, 120, 174);
+  font-size: 11px;
+}
+.section1-defeat {
+  color: rgb(198, 68, 62);
+  font-size: 11px;
+}
+.section1-remake {
+  color: grey;
+  font-size: 11px;
+}
+
+/* Section 2 */
+.section2 {
+  width: 100px;
+  min-width: 100px;
+  height: 97px;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 5px;
+}
+
+/* Section 3 */
+.section3 {
+  width: 113.5px;
+  height: 17px;
+}
+
+.section3-kda {
+  font-size: 15px;
+  font-weight: 700;
+}
+.section3-kdaratio {
+  font-size: 12px;
+}
+
+/* Section 4 */
+.section4 {
+  width: 90px;
+  min-width: 90px;
+  height: 97px;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 5px;
+}
+.section4-level {
+  font-size: 12px;
+}
+.section4-cs {
+  font-size: 12px;
+}
+.section4-kpa {
+  font-size: 12px;
+}
+
+/* Section 5 */
+.section5 {
+  font-size: 12px;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 5px;
+}
+
+/* Section 6 */
+.section6 {
+  width: 170.5px;
+  min-width: 170.5px;
+  height: 97px;
+  font-size: 12px;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 5px;
+}
+.section6-players {
+  font-size: 12px;
+}
+
+.content-warp {
+  background-color: rgb(234, 234, 234);
+  background-color: black;
+}
+
+.header {
+  width: 100%;
+  width: 149px;
+  display: inline-block;
+}
+
+.main-content {
+  width: 100%;
+  height: auto;
+}
+
+.sub-content {
+  width: 100%;
+  display: flex;
+  justify-content: center; /*hoz */
+  align-items: center;
+}
+
+.main-header {
+  width: 690px;
+  height: 150px;
+  display: inline-block;
+}
+
+.spacer {
+  width: 300px;
+  height: 150px;
+  display: inline-block;
+}
+.outer {
+  height: 100vh; /* Magic here */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inner {
+  color: white;
+}
+
+.load {
+  color: white;
+  justify-content: center;
+  text-align: center;
+}
