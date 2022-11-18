@@ -53,7 +53,7 @@ Just head to the Web app link and enter the users summoner name you want to see 
 * [MS Planner](https://tasks.office.com/live.plymouth.ac.uk/en-GB/Home/Planner/)
 
 ### Supervisor 
-Hai-Van Dang
+[Hai-Van Dang](https://github.com/haivandang)
 
 
 
