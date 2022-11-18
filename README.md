@@ -24,7 +24,7 @@ The project is still in the development stages and soon I will be adding more mo
 
 * [Django](https://www.djangoproject.com/)
 * [React](https://reactjs.org/)
-* [Rest-Framework](https://www.django-rest-framework.org/)
+* [Django Rest Framework](https://www.django-rest-framework.org/)
 
 
 <br>
