@@ -28,6 +28,7 @@ The project is still in the development stages and soon I will be adding more mo
 
 
 <br>
+
 ### Uses
 * [Riot Games API](https://developer.riotgames.com/apis)
 
