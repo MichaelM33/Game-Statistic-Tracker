@@ -10,15 +10,15 @@ To provide the user with a service that allows them to track, follow and view pl
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are a few similar web app in this field, I plan to make mine faster and provide a more in-depth view into the statistics of the player, game, nad their overall progression.
+There are a few similar web apps in this field, I plan to make mine faster and provide a more in-depth view into the statistics of the player, game, and their overall progression.
 
 
 Here's why:
-* The current solution don't provide the user with enough information. 
-* Current solution also lack the ability to login into the web app and be able to have players bookmarked or favorited so that they appear on the homepage.
+* The current solution donesn't provide the user with enough information. 
+* The Current solution also lacks the ability to login into the web app and be able to have players bookmarked or favorited so that they appear on the homepage.
 * Lots of the currently solutions also don't let you link your game account with the website so I aim to make this a feature.
 
-The project is still in the development stages and soon I will be adding more more features so that its provides a better and faster solution than the current ones.
+The project is still in the development stages and soon I will be adding more more features so that it provides a better and faster solution than the current ones.
 
 ### Built With
 
