@@ -26,12 +26,10 @@ The project is still in the development stages and soon I will be adding more mo
 * [React](https://reactjs.org/)
 * [Django Rest Framework](https://www.django-rest-framework.org/)
 
-
-<br>
-
 ### Uses
 * [Riot Games API](https://developer.riotgames.com/apis)
 
+<br>
 
 
 <!-- Getting Started -->
