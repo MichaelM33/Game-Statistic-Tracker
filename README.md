@@ -39,7 +39,8 @@ The project is still in the development stages and soon I will be adding more mo
 
 This is a quick example of how to use the web app.
 
-[Web App](https://localhost:8000)
+* [Web App](https://localhost:8000)
+
 Just head to the Web app link and enter the users summoner name you want to see the stats for.
 
 
