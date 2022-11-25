@@ -14,11 +14,11 @@ There are a few similar web apps in this field, I plan to make mine faster and p
 
 
 Here's why:
-* The current solution donesn't provide the user with enough information. 
+* The current solution doesn't provide the user with enough information. 
 * The Current solution also lacks the ability to login into the web app and be able to have players bookmarked or favorited so that they appear on the homepage.
 * Lots of the currently solutions also don't let you link your game account with the website so I aim to make this a feature.
 
-The project is still in the development stages and soon I will be adding more more features so that it provides a better and faster solution than the current ones.
+The project is still in the development stages and soon I will be adding more features so that it provides a better and faster solution than the current ones.
 
 ### Built With
 
